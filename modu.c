@@ -2,7 +2,7 @@
 /**
  * fn_mod - rest div second
  * @head: head
- * @conter: line_number
+ * @counter: line_number
  */
 void fn_mod(stack_t **head, unsigned int counter)
 {
