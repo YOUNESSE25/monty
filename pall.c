@@ -3,7 +3,6 @@
  * fn_pall - print the stack
  * @head: head
  * @counter: ...
- * @Return: ...
  */
 void fn_pall(stack_t **head, unsigned int counter)
 {
